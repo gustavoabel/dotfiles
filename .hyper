@@ -152,6 +152,7 @@ module.exports = {
       ],
     },
     },
+    // a list of plugins to fetch and install from npm
     // format: [@org/]project[#version]
     // examples:
     //   `hyperpower`
